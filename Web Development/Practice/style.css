@@ -1,0 +1,22 @@
+.one {
+    border: 5px solid red;
+}
+
+.two {
+    border: 5px solid yellow;
+    margin: 50px;
+}
+
+.three {
+    border: 5px solid blue;
+    margin: 50px;
+    display:flex;  
+    justify-content: space-evenly;  
+}
+
+.box {
+    height: 50px;
+    background-color: bisque;
+    margin: 10px;
+    width: 30%;
+}

@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 10vh;
+
+}
+
+.homepage {
+    height: 80vh;
+    display: flex;
+}
+
+.nav {
+    width: 20%;
+    height: 100%;
+
+}
+
+.article {
+    width: 80%;
+    height: 100%;
+ 
+  
+}
+
+.footer {
+    height: 10vh;
+  
+}

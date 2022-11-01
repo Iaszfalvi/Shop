@@ -1,0 +1,28 @@
+* {
+    margin: none;
+    padding: none;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+a:link { 
+    text-decoration: none;
+}
+
+
+
+nav {
+    displaY: flex;
+}
+
+.logo {
+    width: 40%;
+}
+
+.navbar {
+    width: 60%;
+}

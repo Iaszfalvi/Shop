@@ -1,0 +1,34 @@
+.bigbox {   
+    width: 800px;
+    height: 800px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.medbox {  
+    width: 396px;
+    height: 396px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.smallbox {  
+    width: 192px;
+    height: 192px;
+}
+
+.b-blue {
+    border: solid 1px blue;
+}
+
+.b-red {
+    border: solid 2px red;
+}
+
+.b-aqua {
+    border: dashed 2px aqua;
+}
+
+.b-green {
+    border: dotted lawngreen 2px;
+}

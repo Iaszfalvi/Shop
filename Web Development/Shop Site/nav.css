@@ -1,0 +1,59 @@
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration:none;
+    color: white;
+
+}
+
+
+.nav {
+    display:flex;
+    position: 0 absolute;
+    padding: 20px;
+ 
+}
+
+.navbuttons ul {
+    display:flex;
+    justify-content: space-around;
+}
+
+.logo {
+    width: 50%;
+    display:flex;
+}
+
+.logoimage {   
+    height: 50px;
+    padding: 0 50px;
+}
+
+.navbuttons {
+    display: flex;
+    width: 50%
+}
+
+.buttons {
+    width: 70%;
+}
+
+.buttons li{
+    padding-top: 10px;
+}
+
+.options {
+    width: 30%;
+}
+
+.options li {
+    padding-top: 10px;
+}
+
+li:hover {
+    background: rgba(255,255,255, 0.5);  
+  
+}

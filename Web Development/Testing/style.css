@@ -1,0 +1,50 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+.header {
+height: 50px;
+background-color: teal;
+text-align: center;
+padding-top: 2rem;
+color: white;
+}
+.invisible {
+display: flex;
+flex-direction: row;
+height: 50vh;
+}
+.aside {
+background-color: lightgreen;
+height: 50vh;
+width: 10%;
+text-align: center;
+}
+
+.article {
+background-color: orangered;
+height: 50vh;
+width: 20%;
+flex: 3 3rem;
+text-align: center;
+}
+
+.mid-box {
+background-color: lightsalmon;
+text-align: center;
+height: 15%;
+padding: 1rem;
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+width: 10%;
+}
+
+.footer {
+    height: 50px;
+    background-color: teal;
+    text-align: center;
+    padding-top: 2rem;
+    color: white;
+}

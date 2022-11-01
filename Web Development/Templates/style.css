@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.nav {
+    height: 10vh;
+    width: 100%;
+    background-color: orange;    
+}
+
+.invisible-one {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+.invisible-two {
+    display: flex;
+    justify-content: space-between;    
+    height: 65vh;
+    padding: 20px;
+}
+
+.box-small {
+    width: 11%;
+    background-color: black;
+    height: 5vh;
+}
+
+.box-one {
+    height: 100%;
+    width: 32%;
+    background-color: orange;
+}
+
+.box-two {
+    height: 100%;
+    width: 30%;   
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.mid-box {
+    background-color: orange;
+    height: 45%
+}
+
+.box-three {
+    height: 100%;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.box-med {
+    height: 18%;
+    width: 100%;
+    background-color: black;
+}

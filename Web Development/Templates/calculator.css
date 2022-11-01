@@ -1,0 +1,33 @@
+.calculatorbody {
+    border: 5px solid pink;
+    height: 80vh;
+    width: 50vw;
+    display: flex;
+    
+    
+}
+
+.screen {
+    border: 5px solid green;
+    height: 20vh;
+    width: 40vw;
+}
+
+.numberholder{
+    border: 5px solid purple;
+    height: 20vh;
+    width: 40vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.number {
+    border: 1px solid brown;
+    width: calc(100%/3.1);
+}
+
+.shoe {
+    height: 50vh;
+    width: 24vw;
+    border: 5px solid black;
+}
